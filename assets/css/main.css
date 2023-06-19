@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #736b5e;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -151,10 +151,11 @@ input, select, textarea {
 
 		}
 
-	body {
-		background-color: #ffffff;
-		color: #000000;
-	}
+body {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
 
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -316,36 +317,36 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #000000;
+		color: #ffffff;
 	}
 
 	a {
-		color: #000000;
+		color: #fffdfd;
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: #eaff00;
 		}
 
 	strong, b {
-		color: #000000;
+		color: #ffffff;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #ffffff;
 	}
 
 	blockquote {
-		border-left-color: rgba(0, 0, 0, 0.2);
+		border-left-color: rgba(252, 252, 252, 0.2);
 	}
 
 	code {
-		background: rgba(0, 0, 0, 0.05);
-		border-color: rgba(0, 0, 0, 0.2);
+		background: rgb(255, 255, 255);
+		border-color: rgb(255, 255, 255);
 	}
 
 	hr {
-		border-bottom-color: rgba(0, 0, 0, 0.2);
+		border-bottom-color: rgba(255, 253, 253, 0.2);
 	}
 
 /* Row */
@@ -2187,8 +2188,8 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
-		color: #000000 !important;
+		box-shadow: inset 0 0 0 1px rgb(255 255 255 / 44%);	
+		color: inset 0 0 0 1px rgb(255 255 255 / 44%);
 	}
 
 		input[type="submit"]:hover,
@@ -2474,7 +2475,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #000000;
+		color: #ffffff;
 	}
 
 	input[type="text"],
@@ -2485,7 +2486,7 @@ input, select, textarea {
 	input[type="url"],
 	select,
 	textarea {
-		border-color: rgba(0, 0, 0, 0.2);
+		border-color: rgba(255, 255, 255, 0.2);
 	}
 
 		input[type="text"]:focus,
