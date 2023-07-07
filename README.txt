@@ -1,30 +1,22 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Página de Privacidade e Tratamento de Dados
+
+Este repositório contém uma página de privacidade e tratamento de dados criada como parte de uma aula de Direito Digital.
+
+## Sobre o Projeto
+
+Este projeto consiste em uma página dedicada à privacidade e ao tratamento de dados, desenvolvida como parte de um estudo sobre Direito Digital. A página visa fornecer informações e orientações sobre as práticas adotadas em relação à proteção de dados pessoais, conforme estabelecido pela Lei Geral de Proteção de Dados (LGPD).
+
+Nela, você encontrará informações sobre a coleta e uso de dados, a política de cookies, o compartilhamento de dados e medidas de segurança implementadas. Nosso objetivo é assegurar a transparência no tratamento de dados e garantir a privacidade dos usuários.
+
+Sinta-se à vontade para explorar a página e aprender mais sobre nossas práticas de privacidade e proteção de dados.
+
+Foi usando template "HTML5UP", editado, modificado e customizado a gosto!
 
 
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
 
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
-
-(* = my other side project -- carrd.co)
-(** = not included)
-
-AJ
-aj@lkn.io | @ajlkn
 
 
 Credits:
-
 	Demo Images:
 		Unsplash (unsplash.com)
 
